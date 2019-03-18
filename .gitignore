@@ -1,3 +1,7 @@
+dist/
+.history/
+.idea/
+
 # Logs
 logs
 *.log
